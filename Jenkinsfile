@@ -9,7 +9,7 @@ pipeline {
         // Your Docker Hub Username
         DOCKER_USER = 'shujaat014' 
         // Name of the image
-        IMAGE_NAME = 'devops project'
+        IMAGE_NAME = 'devops-project'
     }
 
     stages {
